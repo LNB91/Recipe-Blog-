@@ -15,8 +15,7 @@ Recipe Share is a full-stack web application that lets users browse, submit, and
 - Node.js + Express
 - MongoDB
 
-## Live Demo
-[View Live Site](https://your-recipe-share-link.vercel.app)
+
 
 ## Screenshots
 ![Home Page](screenshots/recipe-home.png)
